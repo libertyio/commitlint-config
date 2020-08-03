@@ -1,6 +1,6 @@
 const typeEnum = require('@libertyio/commitlint-config-type-enum');
 
-// commitlint rules for this repository:
+// copy rules from src/main.js:
 const rules = {
     'body-leading-blank': [1, 'always'],
     'footer-leading-blank': [1, 'always'],
